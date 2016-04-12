@@ -75,3 +75,5 @@ Provides enhancements to the operations on Sidebar of Files and Folders for Subl
 }
 ```
 
+## EditorConfig [(website)](http://editorconfig.org/), [(sublimeText 3)](https://packagecontrol.io/packages/EditorConfig)
+EditorConfig helps developers maintain consistent coding styles between different editors
