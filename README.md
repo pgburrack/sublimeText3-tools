@@ -39,7 +39,10 @@ Usually, if you want to use a color picker you probably open Photoshop or GIMP a
 ![](http://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2014/07/1404716694colorpicker.png)
 
 ## LESS [(github)](https://github.com/danro/LESS-sublime)
-LESS syntax for Sublime Text 
+LESS syntax for Sublime Text
+
+## Babel [(github)](https://github.com/babel/babel-sublime)
+Language definitions for ES6+ JavaScript with React JSX syntax extensions.
 
 ## TodoReview
 A SublimeText plugin for reviewing todo (and other) comments within your code.
