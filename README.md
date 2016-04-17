@@ -61,7 +61,7 @@ Provides enhancements to the operations on Sidebar of Files and Folders for Subl
 		"params"
 	],
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"find_selected_text": true,
 	"dictionary": "Packages/Language - English/en_US.dic",
 	"draw_white_space": "all",
 	"fade_fold_buttons": false,
